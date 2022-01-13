@@ -2,7 +2,19 @@
 - This is a simple python project use to genterate PASSWORD . 
 - I used RANDOM and STRING libraries in this code. 
 
-## Usage
+## About The Project
 - Random is used to shuffle the string.
 - Length of password is taken by user.
 - Later on i will add GUI in it
+
+## Tech Stacks Used
+![Python]https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+
+## How to use Project
+
+
+- Download or clone the repository Website : 
+
+```
+https://github.com/ManthanUgemuge/PasswordGenerator.git
+```
