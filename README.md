@@ -1,5 +1,5 @@
 # PasswordGenerator
-- This is a simple python project use to genterate PASSWORD . 
+This is a simple python project use to genterate PASSWORD . 
 - I used RANDOM and STRING libraries in this code. 
 
 ## About The Project
