@@ -14,7 +14,7 @@ This is a simple python project use to genterate PASSWORD .
 ## How to use Project
 
 
-- Download or clone the repository Website : 
+- [Download]() or clone the repository Website : 
 
 ```
 https://github.com/ManthanUgemuge/PasswordGenerator.git
