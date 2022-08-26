@@ -1,4 +1,4 @@
-# PasswordGenerator
+# Password Generator
 This is a simple python project use to genterate PASSWORD . 
 - I used RANDOM and STRING libraries in this code. 
 
@@ -14,10 +14,10 @@ This is a simple python project use to genterate PASSWORD .
 ## How to use Project
 
 
-- [Download](https://github.com/ManthanUgemuge/PasswordGenerator/archive/refs/heads/main.zip) or clone the repository Website : 
+- [Download](https://github.com/ManthanUgemuge/Password-Generator/archive/refs/heads/main.zip) or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/PasswordGenerator.git
+https://github.com/ManthanUgemuge/Password-Generator.git
 ```
 
 ## Contributing
