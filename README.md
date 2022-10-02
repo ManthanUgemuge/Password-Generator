@@ -14,10 +14,10 @@ This is a simple Python Project use to generate Password.
 ## How to use Project
 
 
-- [Download](https://github.com/ManthanUgemuge/Password-Generator/archive/refs/heads/main.zip) or clone the repository Website : 
+- [Download](https://github.com/manthanugemuge/password-generator/archive/refs/heads/main.zip) or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/Password-Generator.git
+https://github.com/manthanugemuge/password-generator.git
 ```
 
 ## Contributing
