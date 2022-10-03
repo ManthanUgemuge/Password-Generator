@@ -14,11 +14,12 @@ This is a simple Python Project use to generate Password.
 ## How to use Project
 
 
-- [Download](https://github.com/manthanugemuge/password-generator/archive/refs/heads/main.zip) or clone the repository Website : 
+- Download or clone the repository Website : 
 
 ```
 https://github.com/manthanugemuge/password-generator.git
 ```
+[Download](https://github.com/manthanugemuge/password-generator/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
