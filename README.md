@@ -19,7 +19,8 @@ This is a simple Python Project use to generate Password.
 ```
 https://github.com/manthanugemuge/password-generator.git
 ```
-[Download](https://github.com/manthanugemuge/password-generator/archive/refs/heads/main.zip)
+
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/manthanugemuge/password-generator/archive/refs/heads/main.zip) 
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
